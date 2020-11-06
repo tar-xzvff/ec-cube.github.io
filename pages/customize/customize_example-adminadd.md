@@ -90,7 +90,7 @@ folder: customize
 
   - 今回であれば、**cutomer**を検索します。
 
-<script src="http://gist-it.appspot.com/https://github.com/EC-CUBE/ec-cube.github.io/blob/master/Source/cookbook1_customize/AdminControllerProvider_view.php"></script>
+<script src="http://gist-it.appspot.com/https://github.com/EC-CUBE/ec-cube.github.io/blob/master/pages/customize/example-sorce/AdminControllerProvider_view.php"></script>
 
 - 上記が検索でヒットした付近のソースです。
 
